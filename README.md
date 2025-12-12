@@ -8,6 +8,7 @@ ano.O objetivo é analisar dados de visitas de manutenção em parques eólicos,
 de descobrir possíveis correlações nas falhas nos aerogeradores Siemens.Neste projeto criei
 um modelo para prever o tempo de manutenção baseado no código de falha.
 </p>
+
 ![](https://github.com/rodfloripa/Projeto11/blob/master/visitas1.png)
 
 ![](https://github.com/rodfloripa/Projeto11/blob/master/visitas2.png)
