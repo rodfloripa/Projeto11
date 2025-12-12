@@ -11,4 +11,9 @@ um modelo para prever o tempo de manutenção baseado no código de falha.
 
 ![](https://github.com/rodfloripa/Projeto11/blob/master/visitas1.png)
 
+fig1. Parques com poucas visistas
+<br/><br/><br/><br/>
+
 ![](https://github.com/rodfloripa/Projeto11/blob/master/visitas2.png)
+
+fig2. Parques com muitas visistas
