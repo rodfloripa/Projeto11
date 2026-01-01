@@ -26,3 +26,6 @@ informações, o tempo aproximado de duração da manutenção. Para isto é
 necessário analisar os códigos de eventos, de forma que se busque sequências de
 códigos indicativas das visitas.
 </p>
+
+
+<a href="https://github.com/rodfloripa/Projeto11/blob/master/Projeto%20Final-%20NDML-Rev1.pdf">Veja o relatório final</a>
